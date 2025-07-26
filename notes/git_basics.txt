@@ -1,0 +1,1 @@
+Git is a version control system. 'git init' creates a repo.
